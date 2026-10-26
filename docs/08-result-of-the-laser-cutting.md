@@ -6,7 +6,7 @@ description: "When you are done laser cutting you should have all the pieces as 
 
 When you are done laser cutting you should have all the pieces as shown in the photo below.
 
-<img src="images/laser-cut-pieces-laid-out.jpg" alt="Laser-cut pieces laid out" width="486">
+<img src="../images/laser-cut-pieces-laid-out.jpg" alt="Laser-cut pieces laid out" width="486">
 
 In particular you should have
 
