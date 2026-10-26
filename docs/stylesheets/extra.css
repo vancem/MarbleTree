@@ -1,0 +1,16 @@
+/* Center figures. The Markdown stays plain aside from image widths that match the Word layout. */
+
+.md-typeset__scrollwrap {
+  text-align: center;
+}
+
+.md-typeset img {
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.md-typeset td img {
+  display: inline-block;
+}
