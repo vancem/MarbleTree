@@ -2,7 +2,7 @@
 
 **Read it online: <https://vancem.github.io/MarbleTree/>**
 
-How to laser-cut and assemble a wooden marble tree toy, by Vance Morrison.
+How to laser-cut and assemble a wooden marble tree toy, by [Vance Morrison](https://vancem.github.io/VancePMorrison/).
 The design files (SVG) are in `docs/design/` and open in a browser.
 Two short films of the finished toy are in `docs/videos/`.
 

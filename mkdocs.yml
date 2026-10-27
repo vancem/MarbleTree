@@ -6,7 +6,7 @@ site_description: >-
 site_author: Vance Morrison
 repo_url: https://github.com/vancem/MarbleTree
 repo_name: vancem/MarbleTree
-copyright: Copyright &copy; 2014-2026 Vance Morrison
+copyright: Copyright &copy; 2014-2026 <a href="https://vancem.github.io/VancePMorrison/">Vance Morrison</a>
 
 theme:
   name: material
