@@ -14,3 +14,9 @@
 .md-typeset td img {
   display: inline-block;
 }
+
+/* Italic caption under an image or video. */
+.md-typeset p:has(> img):not(:has(> :not(img))) + p:has(> em:only-child),
+.md-typeset p:has(> video) + p:has(> em:only-child) {
+  text-align: center;
+}
