@@ -4,8 +4,6 @@ description: "What a laser-cut marble tree is, how the trunk is built from a spi
 
 # Laser-Cut Marble Tree
 
-by [Vance Morrison](https://vancem.github.io/VancePMorrison/)
-
 ## Marble Trees 
 
 If you have a small child, you will want this toy. Frankly it has a ‘coolness’

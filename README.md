@@ -6,6 +6,9 @@ How to laser-cut and assemble a wooden marble tree toy, by [Vance Morrison](http
 The design files (SVG) are in `docs/design/` and open in a browser.
 Two short films of the finished toy are in `docs/videos/`.
 
+Copyright © 2014-2026 Vance Morrison. Licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ## How the site is built
 
 The book is Markdown in `docs/`. The chapter order is the `nav` list in `mkdocs.yml`.

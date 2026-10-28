@@ -6,7 +6,7 @@ site_description: >-
 site_author: Vance Morrison
 repo_url: https://github.com/vancem/MarbleTree
 repo_name: vancem/MarbleTree
-copyright: Copyright &copy; 2014-2026 <a href="https://vancem.github.io/VancePMorrison/">Vance Morrison</a>
+copyright: Copyright &copy; 2014-2026 <a href="https://vancem.github.io/VancePMorrison/">Vance Morrison</a>. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 
 # Keep local preview off MkDocs' default :8000 so CallerTips can use that port.
 dev_addr: 127.0.0.1:8001

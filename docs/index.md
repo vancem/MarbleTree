@@ -5,9 +5,13 @@ description: "How to laser-cut and assemble a wooden marble tree toy: design fil
 
 # Laser-Cut Marble Tree
 
-By [Vance Morrison](https://vancem.github.io/VancePMorrison/), 2014
+By [Vance Morrison](https://vancem.github.io/VancePMorrison/)
 
-Instructions for cutting and assembling a wooden marble tree on a laser cutter. The design files are included, and each one opens in a browser.
+Copyright © 2014-2026 Vance Morrison. Licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Instructions for cutting and assembling a wooden marble tree on a laser
+cutter. The design files are included, and each one opens in a browser.
 
 ## Chapters
 
