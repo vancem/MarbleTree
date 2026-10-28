@@ -8,6 +8,9 @@ repo_url: https://github.com/vancem/MarbleTree
 repo_name: vancem/MarbleTree
 copyright: Copyright &copy; 2014-2026 <a href="https://vancem.github.io/VancePMorrison/">Vance Morrison</a>
 
+# Keep local preview off MkDocs' default :8000 so CallerTips can use that port.
+dev_addr: 127.0.0.1:8001
+
 theme:
   name: material
   features:

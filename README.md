@@ -13,10 +13,9 @@ The book is Markdown in `docs/`. The chapter order is the `nav` list in `mkdocs.
 `Deploy site` GitHub Action publishes it to GitHub Pages on every push to `main`.
 
 To preview locally:
-
 ```
 pip install -r requirements.txt
-mkdocs serve        # preview at http://127.0.0.1:8000/MarbleTree/
+mkdocs serve        # preview at http://127.0.0.1:8001/MarbleTree/
 ```
 
 The public address works after the repository is on GitHub and Pages is set to GitHub Actions.

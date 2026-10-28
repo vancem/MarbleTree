@@ -22,9 +22,9 @@ The result is quite unique and is a wonderful gift for children of all ages (inc
 
 The xylophone-like sounds it makes are just enchanting, and your biggest problem will be taking it away because you want some quiet. These two short films show it running.
 
-| One marble | Many marbles |
-|:---:|:---:|
-| <video controls src="../videos/marble-tree-one-marble.mp4" width="168" height="300">One marble</video> | <video controls src="../videos/marble-tree-many-marbles.mp4" width="168" height="300">Many marbles</video> |
+| One marble | | Many marbles |
+|:---:|:---:|:---:|
+| <video controls src="../videos/marble-tree-one-marble.mp4" width="168" height="300">One marble</video> | <span style="display:inline-block;width:60px"></span> | <video controls src="../videos/marble-tree-many-marbles.mp4" width="168" height="300">Many marbles</video> |
 
 Because it uses marbles, and marbles are a swallowing hazard, you have to supervise young children until they can be trusted not to put marbles in their mouth. In my experience, the toy tends to be interesting enough that kids would rather put the marbles on the tree. Still, please supervise.
 
