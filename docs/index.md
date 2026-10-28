@@ -23,7 +23,7 @@ it running.
 
 | One marble | | Many marbles |
 |:---:|:---:|:---:|
-| <video controls src="../videos/marble-tree-one-marble.mp4" width="168" height="300">One marble</video> | | <video controls src="../videos/marble-tree-many-marbles.mp4" width="168" height="300">Many marbles</video> |
+| <video controls src="videos/marble-tree-one-marble.mp4" width="168" height="300">One marble</video> | | <video controls src="videos/marble-tree-many-marbles.mp4" width="168" height="300">Many marbles</video> |
 
 Because it uses marbles, and marbles are a swallowing hazard, you have to
 supervise young children until they can be trusted not to put marbles in their
