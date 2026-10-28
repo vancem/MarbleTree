@@ -10,8 +10,28 @@ By [Vance Morrison](https://vancem.github.io/VancePMorrison/)
 Copyright © 2014-2026 Vance Morrison. Licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Instructions for cutting and assembling a wooden marble tree on a laser
-cutter. The design files are included, and each one opens in a browser.
+## Marble Trees 
+
+If you have a small child, you will want this toy. Frankly it has a ‘coolness’
+factor for all ages, but it is absolutely irresistible for 1–5 year-old
+children. Place it in front of the child (with marbles in the tray), and in less
+than a minute the child will have figured out how to use it.
+
+The xylophone-like sounds it makes are just enchanting, and your biggest problem
+will be taking it away because you want some quiet. These two short videos that show
+it running.
+
+| One marble | | Many marbles |
+|:---:|:---:|:---:|
+| <video controls src="../videos/marble-tree-one-marble.mp4" width="168" height="300">One marble</video> | | <video controls src="../videos/marble-tree-many-marbles.mp4" width="168" height="300">Many marbles</video> |
+
+Because it uses marbles, and marbles are a swallowing hazard, you have to
+supervise young children until they can be trusted not to put marbles in their
+mouth. In my experience, the toy tends to be interesting enough that kids would
+rather put the marbles on the tree. Still, please supervise.
+
+The rest of this document shows you how to build one of these if you have access to
+a laser cutter and some glue.   
 
 ## Chapters
 
