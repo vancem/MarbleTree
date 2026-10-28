@@ -7,5 +7,4 @@ description: "Gluing in the leaves is the last step. After it dries, go get a ma
 Gluing in the leaves is the last step. After it dries, go get a marble and try
 it out!
 
-<img src="../images/completed-marble-tree.jpg" alt="Completed marble tree"
-width="200">
+![Completed marble tree](images/completed-marble-tree.jpg)

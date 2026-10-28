@@ -1,4 +1,4 @@
-/* Center figures. Image widths stay in the Markdown so they match the Word layout. */
+/* Center figures. Display size comes from the image files themselves. */
 
 .md-typeset__scrollwrap {
   text-align: center;

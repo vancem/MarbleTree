@@ -15,7 +15,7 @@ see all the pieces after laser cutting but before assembly.
 
 | Pieces after laser cutting | Finished marble tree |
 |:---:|:---:|
-| <img src="../images/pieces-after-laser-cutting.jpg" alt="Pieces after laser cutting" width="302"> | <img src="../images/finished-marble-tree.jpg" alt="Finished marble tree" width="157"> |
+| ![Pieces after laser cutting](images/pieces-after-laser-cutting.jpg) | ![Finished marble tree](images/finished-marble-tree.jpg) |
 
 The long pieces on the left of that photo interlock with each other and give the
 center stalk its strength. The photo on the right is the finished tree. There
@@ -25,8 +25,7 @@ up but also tilted so a marble on the leaf will want to roll around the stalk).
 The fact that you could make this using a laser cutter (that only can cut thin
 material and only at 90 degrees), is very surprising (at least to me).
 
-<img src="../images/spine-pieces-interlocked.jpg" alt="Spine pieces interlocked"
-width="299">
+![Spine pieces interlocked](images/spine-pieces-interlocked.jpg)
 
 The result is quite attractive. The central spine does show through as small
 boxes at the center of each tile, and the burnt edges left by the laser cutter

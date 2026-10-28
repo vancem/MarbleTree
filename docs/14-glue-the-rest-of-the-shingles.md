@@ -10,13 +10,11 @@ shingles touch the core or other shingles. Don’t forget the ‘side’ channel
 where shingles touch each other (see below), however DON’T put any glue in any
 of the channels meant for the leaves.
 
-<img src="../images/glue-in-the-side-channels-between-shingles.jpg" alt="Glue in
-the side channels between shingles" width="218">
+![Glue in the side channels between shingles](images/glue-in-the-side-channels-between-shingles.jpg)
 
 When you are done it should look like this
 
-<img src="../images/trunk-with-all-the-shingles.jpg" alt="Trunk with all the
-shingles" width="553">
+![Trunk with all the shingles](images/trunk-with-all-the-shingles.jpg)
 
 
 ## Sand the Trunk!

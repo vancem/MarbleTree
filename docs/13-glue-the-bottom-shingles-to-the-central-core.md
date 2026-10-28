@@ -11,10 +11,8 @@ same face as the shortest top shingle and vise versa. As before dry-fit the
 pieces and then disassemble and reassemble with glue. After doing this gluing
 the bottom shingles the trunk will look like this.
 
-<img src="../images/bottom-shingles-glued.jpg" alt="Bottom shingles glued"
-width="260">
+![Bottom shingles glued](images/bottom-shingles-glued.jpg)
 
 And the trunk as a whole will look like this
 
-<img src="../images/trunk-after-the-bottom-shingles.jpg" alt="Trunk after the
-bottom shingles" width="583">
+![Trunk after the bottom shingles](images/trunk-after-the-bottom-shingles.jpg)

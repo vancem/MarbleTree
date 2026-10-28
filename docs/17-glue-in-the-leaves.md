@@ -15,15 +15,13 @@ evenly. You should use some care to use just the right amount of glue and
 because from here on any glue that oozes out will probably stain some visible
 wood that will be hard to sand. Thus do use come care.
 
-<img src="../images/glue-along-the-base-of-a-leaf.jpg" alt="Glue along the base
-of a leaf" width="201">
+![Glue along the base of a leaf](images/glue-along-the-base-of-a-leaf.jpg)
 
-<img src="../images/smallest-leaf-glued-in.jpg" alt="Smallest leaf glued in"
-width="138">
+![Smallest leaf glued in](images/smallest-leaf-glued-in.jpg)
 
 Once you have done the smallest leaf, glue in the leaves starting with the
 biggest. As you do so you should be sighting down from the top to insure that
 all the leaves tips form a straight line. This insures that you are seating each
 leave well and none of them are askew.
 
-<img src="../images/leaf-tips-aligned.jpg" alt="Leaf tips aligned" width="256">
+![Leaf tips aligned](images/leaf-tips-aligned.jpg)

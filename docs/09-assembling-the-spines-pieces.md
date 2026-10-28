@@ -13,8 +13,7 @@ All the pieces are labeled (left, right, front back), and all the labels should
 be up. The tops of all the spines are above the horizontal writing (in the left
 in the picture below). Dry fit them and they should look like this.
 
-<img src="../images/spine-pieces-dry-fitted.jpg" alt="Spine pieces dry-fitted"
-width="545">
+![Spine pieces dry-fitted](images/spine-pieces-dry-fitted.jpg)
 
 When you have the worked out, simply put some glue around each ‘knob’. It is
 also a good idea to take a small piece of paper (1/2” by 1/2”) and glue this to
